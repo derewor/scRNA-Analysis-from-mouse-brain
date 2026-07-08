@@ -16,5 +16,6 @@ Steps followed in the analysis
 9. Cluster the cells based on distance and assign labels (k-means).
 10. Identify the unique top 10 genes that differentiate the cells from other cell types as markers.
 
-####[<img width="1402" height="574" alt="image" src="https://github.com/user-attachments/assets/71ff47a5-d695-4124-8441-edf92c5b4903" />]
+### [<img width="1402" height="574" alt="image" src="https://github.com/user-attachments/assets/71ff47a5-d695-4124-8441-edf92c5b4903" />]
+### [<img width="940" height="576" alt="image" src="https://github.com/user-attachments/assets/2b29b52c-9010-481d-bfa1-c6d72c5bc820" />]
 
